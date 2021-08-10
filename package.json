@@ -1,0 +1,28 @@
+{
+  "name": "petshop-api",
+  "version": "1.0.0",
+  "description": "Criando uma api para conectar ao frontend da aplicação",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrepreira/petshop-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrepreira/petshop-api/issues"
+  },
+  "homepage": "https://github.com/andrepreira/petshop-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.3.6",
+    "express": "^4.17.1",
+    "mariadb": "^2.5.4",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5"
+  }
+}
